@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+desafiorpa/__init__.py
+desafiorpa/__main__.py
+desafiorpa/bot.py
+desafiorpa.egg-info/PKG-INFO
+desafiorpa.egg-info/SOURCES.txt
+desafiorpa.egg-info/dependency_links.txt
+desafiorpa.egg-info/requires.txt
+desafiorpa.egg-info/top_level.txt
+desafiorpa/resources/start.png
